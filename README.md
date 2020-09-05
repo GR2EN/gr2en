@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Almaz</h1>
 <h3 align="center">React Front-end Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gr2en" alt="gr2en" /> </p>
+<p align="center">
+  <a href="https://kaliyev.dev/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230064b7&style=flat&logo=google-chrome&logoColor=%23fff" alt="website" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gr2en&color=0064b7&style=flat" alt="profile views" />
+</p>
 
 - 🔭 I’m currently working on **ERP for a private small company**
 
