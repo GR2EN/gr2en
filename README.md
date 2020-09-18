@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=gr2en&color=0064b7&style=flat" alt="profile views" />
 </p>
 
-- 🔭 I’m currently working on **ERP for a private small company**
+- 🔭 I’m currently working on **portfolio**
 
 - 🌱 I’m currently learning **React and everything around web-development**
 
