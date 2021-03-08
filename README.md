@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=gr2en&color=0064b7&style=flat" alt="profile views" />
 </p>
 
-- 🔭 I’m currently **job hunting**
+- 🔭 I’m currently **working**
 
 - 🌱 learning **React and everything around web-development**
 
