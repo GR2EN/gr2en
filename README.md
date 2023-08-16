@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently **working**
 
-- 🌱 learning **React and everything around web-development**
+- 🌱 learning **React and all around web-development**
 
 - 📫 How to reach me **almaz@kaliyev.dev** || **<a href="https://t.me/almaz_kaliyev" target="blank">t.me/almaz_kaliyev</a>**
 
